@@ -1,0 +1,16 @@
+{
+  "pages":[
+    
+    
+    
+    "pages/index/index",
+    "pages/2048/2048",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#faf8ee",
+    "navigationBarTitleText": "寻根问祖",
+    "navigationBarTextStyle":"black"
+  }
+}
