@@ -10,7 +10,7 @@
       <text class='title'>寻根问祖</text>
       <text class='play' bindtap='gameStart'>{{start}}</text>
     </view>
-    <view class='rside cell-con-{{score}}'>
+    <view class='rside '>
       <text>score <text class='score'>{{score}}</text></text>
     </view>
   </view>
